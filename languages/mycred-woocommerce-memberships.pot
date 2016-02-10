@@ -1,0 +1,89 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: myCRED: WooCommerce Memberships\n"
+"POT-Creation-Date: 2016-02-10 09:21+0100\n"
+"PO-Revision-Date: 2016-02-10 09:21+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: mycred-woocommerce-memberships.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-mycred-woocommerce-memberships-admin.php:35
+#: mycred-woocommerce-memberships.php:131
+msgid "WooCommerce Memberships"
+msgstr ""
+
+#: admin/class-mycred-woocommerce-memberships-admin.php:36
+msgid "Award points for users who bought a membership plan on your website."
+msgstr ""
+
+#: admin/class-mycred-woocommerce-memberships-admin.php:52
+msgid "Membership"
+msgstr ""
+
+#: admin/class-mycred-woocommerce-memberships-admin.php:58
+#, php-format
+msgid "Membership: %s"
+msgstr ""
+
+#: includes/class-mycred-woocommerce-memberships-hook.php:159
+msgid "%plural% for any plan"
+msgstr ""
+
+#: includes/class-mycred-woocommerce-memberships-hook.php:174
+#: includes/class-mycred-woocommerce-memberships-hook.php:219
+msgid "Limit"
+msgstr ""
+
+#: includes/class-mycred-woocommerce-memberships-hook.php:181
+#: includes/class-mycred-woocommerce-memberships-hook.php:226
+msgid "Log template"
+msgstr ""
+
+#: includes/class-mycred-woocommerce-memberships-hook.php:204
+#, php-format
+msgid "Points for %s plan"
+msgstr ""
+
+#: mycred-woocommerce-memberships.php:99
+msgid "myCRED"
+msgstr ""
+
+#: mycred-woocommerce-memberships.php:115
+msgid "WooCommerce"
+msgstr ""
+
+#: mycred-woocommerce-memberships.php:147
+msgid ""
+"To begin using myCRED: WooCommerce Memberships, please install and activate "
+"the latest version of: "
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "myCRED: WooCommerce Memberships"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://smarter.uk.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add different amount of points for WooCommerce Memberships purchases."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Robert Bokori"
+msgstr ""
